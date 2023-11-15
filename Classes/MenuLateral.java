@@ -14,5 +14,4 @@ public class MenuLateral {
 
     public static void apresentar() {
     }
-
 }
