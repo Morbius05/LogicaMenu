@@ -21,8 +21,8 @@ public class Main {
 
         String nomeMenu = "Menu Lateral";
 
-        Menu menu = new Menu(nomeMenu, grupos);
-        Menu.apresentar();
+        MenuLateral menu = new Menu(nomeMenu, grupos);
+        MenuLateral.apresentar();
 
     }
 

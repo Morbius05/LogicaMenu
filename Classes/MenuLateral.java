@@ -2,7 +2,7 @@ package app.LogicaMenu;
 
 import java.util.ArrayList;
 
-public class Menu {
+public class MenuLateral {
 
     String nomeMenu;
     ArrayList<Grupo> grupos;
